@@ -6,9 +6,9 @@ I work primarily with C#, .NET, Entity Framework Core, PostgreSQL, GraphQL, and 
 
 ## Featured projects
 
-### [Pokedle](https://github.com/NikolasVir/pokedle)
+### [JournalT](https://github.com/NikolasVir/journalt)
 
-A full-stack Pokémon guessing game with a .NET GraphQL backend, PostgreSQL persistence, JWT authentication, structured logging, and automated unit and integration tests.
+A self-hosted note-taking app with real-time collaborative editing (Yjs CRDTs over SignalR), wiki-style interlinking, and single-container deployment using ASP.NET Core (.NET 10), Angular 21, and SQLite.
 
 ### [AIXP](https://github.com/NikolasVir/aixp)
 
